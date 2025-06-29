@@ -42,7 +42,7 @@ The portal acts as a central brain for the company's knowledge. Instead of manua
 Here are some screenshots from the application's user interface to showcase the functionality and design.
 
 - **Login Screen with User Roles:**
-  ![Login Screen](https://raw.githubusercontent.com/BouchraMerabti/AI-Internal-Knowledge-Portal/main/Screenshot%202025-05-26%20at%2000.32.16.png)
+  ![Login Screen](https://github.com/BouchraMerabti/AI-Internal-Knowledge-Portal/blob/3724e6d27edcb67f47945c47c9dc3537f1f28d51/Screenshot%202025-05-26%20at%2000.19.42%20copy.png)
   *Demonstrates the implementation of different user roles for security.*
 
 - **Main Dashboard:**
