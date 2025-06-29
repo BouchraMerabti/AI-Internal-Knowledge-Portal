@@ -31,9 +31,30 @@ The portal acts as a central brain for the company's knowledge. Instead of manua
 3.  Feeding those chunks to a large language model (e.g., GPT) to generate a concise answer.
 4.  Ensuring the user has permission to access the source document before displaying any information.
 
-### **Technical Implementation**
+# **Technical Implementation**
 
 * **Platform:** OutSystems
 * **AI Integration:** A connector or API integration to a large language model (e.g., OpenAI's GPT API) for summarization and natural language processing.
 * **Key Concepts:** Data modeling for documents and user permissions, UI/UX design, dashboard creation, and REST API integration.
 
+# **Screenshots**
+
+Here are some screenshots from the application's user interface to showcase the functionality and design.
+
+- **Login Screen with User Roles:**
+  ![Login Screen]([https://raw.githubusercontent.com/YourUsername/YourRepoName/main/Screenshot_2025-05-26_at_00.32.16.png](https://github.com/BouchraMerabti/AI-Internal-Knowledge-Portal/blob/3724e6d27edcb67f47945c47c9dc3537f1f28d51/Screenshot%202025-05-26%20at%2000.19.42%20copy.png)
+  *Demonstrates the implementation of different user roles for security.*
+
+- **Main Dashboard:**
+  ![Main Dashboard]([https://raw.githubusercontent.com/YourUsername/YourRepoName/main/Screenshot_2025-05-26_at_00.25.55.png](https://github.com/BouchraMerabti/AI-Internal-Knowledge-Portal/blob/3724e6d27edcb67f47945c47c9dc3537f1f28d51/Screenshot%202025-05-26%20at%2000.44.14.png)
+  ![Recent documents](paste_your_copied_url_here](https://github.com/BouchraMerabti/AI-Internal-Knowledge-Portal/blob/3724e6d27edcb67f47945c47c9dc3537f1f28d51/Screenshot%202025-05-26%20at%2000.20.19%20copy.png))
+  *Shows user interaction analytics and a list of top-asked questions and recent documents.*
+
+
+- **AI Assistant in Action:**
+  ![AI Assistant]([https://raw.githubusercontent.com/YourUsername/YourRepoName/main/Screenshot_2025-05-26_at_00.25.48.png](https://github.com/BouchraMerabti/AI-Internal-Knowledge-Portal/blob/3724e6d27edcb67f47945c47c9dc3537f1f28d51/Screenshot%202025-05-26%20at%2000.25.48.png))
+  *Highlights the conversational, natural language interface.*
+
+- **User Interaction Logs:**
+  ![User Interaction Logs][(https://raw.github.com/YourUsername/YourRepoName/main/Screenshot_2025-05-26_at_00.31.44.png](https://github.com/BouchraMerabti/AI-Internal-Knowledge-Portal/blob/3724e6d27edcb67f47945c47c9dc3537f1f28d51/Screenshot%202025-05-26%20at%2000.22.23%20copy.png))
+  *Displays backend tracking of user activities for auditing and insights.*
