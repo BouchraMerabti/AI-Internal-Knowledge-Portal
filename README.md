@@ -55,6 +55,7 @@ Here are some screenshots from the application's user interface to showcase the 
   ![AI Assistant](https://raw.githubusercontent.com/BouchraMerabti/AI-Internal-Knowledge-Portal/main/Screenshot%202025-05-26%20at%2000.25.48.png)
   ![AI Assistant](https://github.com/BouchraMerabti/AI-Internal-Knowledge-Portal/blob/3724e6d27edcb67f47945c47c9dc3537f1f28d51/Screenshot%202025-05-26%20at%2000.26.29.png)
   ![AI Assistant](https://github.com/BouchraMerabti/AI-Internal-Knowledge-Portal/blob/3724e6d27edcb67f47945c47c9dc3537f1f28d51/Screenshot%202025-05-26%20at%2000.26.49.png)
+  
   *Highlights the conversational, natural language interface.*
 
 - **User Interaction Logs:**
