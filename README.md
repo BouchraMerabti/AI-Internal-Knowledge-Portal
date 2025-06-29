@@ -4,13 +4,13 @@ A conceptual AI-powered internal knowledge portal built using OutSystems, featur
 
 # Project Summary
 
-AI-Powered Internal Knowledge Portal, a conceptual application built during a 3-day hackathon using the  OutSystems low-code platform**. The project demonstrates a solution to the common enterprise problem of fragmented knowledge by leveraging AI for intelligent search and robust security for sensitive data.
+AI-Powered Internal Knowledge Portal, a conceptual application built during a 3-day hackathon using the  OutSystems low-code platform. The project demonstrates a solution to the common enterprise problem of fragmented knowledge by leveraging AI for intelligent search and robust security for sensitive data.
 
 The core idea is to transform scattered internal documents (PDFs, emails, etc.) into a smart, conversational knowledge base.
 
 # Key Features
 
-* **AI-Powered Natural Language Search:** Users can ask questions in plain English (e.g., "How do we handle returns in Germany?") and receive summarized answers.
+* **AI-Powered Natural Language Search:** Users can ask questions in plain English (e.g., "Can you give me notes fronm the last meeting ?") and receive summarized answers.
 * **Intelligent Summarization (GPT Integration):** The system uses AI to interpret and synthesize information from documents, providing a concise answer with source links, rather than just returning a list of files.
 * **Learning Knowledge Base:** The AI is trained on the company's internal knowledge, allowing it to provide answers that fit the organization's specific context and terminology. The system also records previously asked questions and answers, creating a growing, searchable knowledge base.
 * **Security by Design (Principle of Least Privilege):** The application enforces strict access controls, ensuring that users can only view documents and information they are explicitly authorized to access, based on their user role (e.g., Employee, Admin, IT Security).
@@ -18,11 +18,11 @@ The core idea is to transform scattered internal documents (PDFs, emails, etc.) 
 * **User Interface & Dashboards:** A user-friendly front-end with dashboards to track document access levels, user interactions (views, edits, downloads), and top-asked questions.
 * **Rapid Prototyping:** The entire MVP was conceptualized and built in just 3 days, showcasing the power of the OutSystems platform for agile development.
 
-# Problem Statement**
+# Problem Statement
 
 In large organizations, valuable knowledge is fragmented across different platforms and formats, making it difficult for employees to find information. This leads to redundant work and a lack of visibility on who the subject matter experts are.
 
-# Solution Overview**
+# Solution Overview
 
 The portal acts as a central brain for the company's knowledge. Instead of manually searching through countless documents, an employee can ask a question and get an instant, summarized, and permissions-aware answer. This is achieved by:
 
